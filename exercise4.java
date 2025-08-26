@@ -31,7 +31,7 @@ public class exercise4 {
                 primes[count] = num;
                 count++;
             }
-            num++;
+            num++; 
         }
         return primes;
     }
