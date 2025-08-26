@@ -1,3 +1,12 @@
+/*
+Exercise 2: Static vs Dynamic Initialization 
+Demonstrating array initialization styles. 
+Task 
+1. Create an integer array of size 5 using dynamic allocation and fill it with squares of 
+indices. 
+2. Create another integer array using static initialization: {10, 20, 30, 40, 50}. 
+3. Print both arrays using Arrays.toString(). 
+*/
 import java.util.Arrays;
 
 public class exercise2 {

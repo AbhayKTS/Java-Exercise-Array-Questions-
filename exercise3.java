@@ -1,3 +1,14 @@
+/*
+Exercise 3: Jagged Arrays 
+Bruce shows arrays of arrays where rows can have different lengths. 
+Task 
+1. Create a jagged array with 3 rows. 
+○ Row 1 → 2 elements 
+○ Row 2 → 4 elements 
+○ Row 3 → 3 elements 
+2. Fill it with sequential numbers. 
+3. Print it row by row. 
+*/
 public class exercise3 {
     public static void main(String[] args) {
         int[][] ja = new int[3][];
